@@ -1,4 +1,4 @@
-### Hello Wolrd!👋
+# Hello World!👋
 
 - ⚙️ I’m currently working on a Full Stack project of a Blog
 - 📚 I’m currently learning Full Stack development
