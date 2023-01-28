@@ -6,8 +6,10 @@
 - 🎮 Fun fact: I'm addicted to Nintendo and own a small collection of Switch games
 
 ## Knowledge
-- [![HTML5]([https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FHTML&psig=AOvVaw09l9w1rh3MR0JQHGnitazW&ust=1675001403611000&source=images&cd=vfe&ved=2ahUKEwjI8cbOuOr8AhV9bvEDHX5nBloQjRx6BAgAEAo))][1]
-- CSS 3
+![HTML5](https://user-images.githubusercontent.com/106112049/215271731-99f43b46-0d0f-406a-a764-ae9c382020d9.png =100x100)
+![CSS3](https://user-images.githubusercontent.com/106112049/215271732-bcd140c0-fcbf-4170-8c1e-5ea4fb9e1a0d.png)
+![JS](https://user-images.githubusercontent.com/106112049/215271734-3b25ece7-05a1-49a3-8d6e-3ceeb8bcb2b4.png)
+![Python](https://user-images.githubusercontent.com/106112049/215271736-62e0b134-3f0d-4d78-8f32-5704284d95f5.png)
 - Design Thinking
 - Agile Development
 - Bootstrap
