@@ -4,4 +4,3 @@
 - 📚 I’m currently learning Full Stack development
 - 💬 Ask me about 42!
 - 🎮 Fun fact: I'm addicted to Nintendo and own a small collection of Switch games
--->
