@@ -5,7 +5,7 @@
 - 💬 Ask me about 42!
 - 🎮 Fun fact: I'm addicted to Nintendo and own a small collection of Switch games
 
-<a href="https://github.com/iurjoh/github-readme-stats">
+<a href="https://github.com/iurjoh">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iurjoh&repo=github-readme-stats" />
 </a>
 <a href="https://github.com/iurjoh/convoychat">
