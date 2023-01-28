@@ -5,7 +5,7 @@
 - 💬 Ask me about 42!
 - 🎮 Fun fact: I'm addicted to Nintendo and own a small collection of Switch games
 
-# Knowledge obtained in Full Stack courses at the [Code Institute](url:https://codeinstitute.net/se/full-stack-software-development-diploma/?utm_term=code%20institute&utm_campaign=CI+-+SWE+-+Search+-+Brand&utm_source=adwords&utm_medium=ppc&hsa_acc=8983321581&hsa_cam=14660337051&hsa_grp=134087657984&hsa_ad=635849372549&hsa_src=g&hsa_tgt=aud-315575994125:kwd-319867646331&hsa_kw=code%20institute&hsa_mt=e&hsa_net=adwords&hsa_ver=3&gclid=CjwKCAiArNOeBhAHEiwAze_nKK01jR0hgV1kroo-fIzDqFAnAlniNG0CAy_4gitqdxk-YGWNUn5gwRoCxrcQAvD_BwE) and [Staart](https://staart.com//)
+# Full Stack knowledge obtained at [Code Institute](https://codeinstitute.net/) and [Staart](https://staart.com//):
 <a href="https://www.w3.org/TR/html5/" title="HTML5"><img src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg" alt="HTML5" width="40px" height="40px"></a>
 <a href="https://www.w3.org/TR/CSS/" title="CSS3"><img src="https://github.com/get-icon/geticon/raw/master/icons/css-3.svg" alt="CSS3" width="40px" height="40px"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="JavaScript" width="40px" height="40px"></a>
