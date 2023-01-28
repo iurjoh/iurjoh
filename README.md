@@ -6,7 +6,7 @@
 - 🎮 Fun fact: I'm addicted to Nintendo and own a small collection of Switch games
 
 <a href="https://github.com/iurjoh">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iurjoh&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iurjoh&repo=iurjoh&show_icons=ture&theme=github_dark&include_all_commits=true&count_private=true"/>
 </a>
 <a href="https://github.com/iurjoh/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iurjoh&repo=convoychat" />
