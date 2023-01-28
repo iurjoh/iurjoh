@@ -4,6 +4,20 @@
 - 📚 I’m currently learning Full Stack development
 - 💬 Ask me about 42!
 - 🎮 Fun fact: I'm addicted to Nintendo and own a small collection of Switch games
+
+## Knowledge
+- [![HTML5]([https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FHTML&psig=AOvVaw09l9w1rh3MR0JQHGnitazW&ust=1675001403611000&source=images&cd=vfe&ved=2ahUKEwjI8cbOuOr8AhV9bvEDHX5nBloQjRx6BAgAEAo))][1]
+- CSS 3
+- Design Thinking
+- Agile Development
+- Bootstrap
+- JQuery
+- API
+- Jest
+- Flask
+- Database Management Systems
+- Python Testing
+- Full Stack Frameworks (FST)
 <!-- 
 <div>
   <a href="https://github.com/iurjoh">
