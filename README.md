@@ -5,6 +5,13 @@
 - 💬 Ask me about 42!
 - 🎮 Fun fact: I'm addicted to Nintendo and own a small collection of Switch games
 
+<a href="https://github.com/iurjoh/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iurjoh&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/iurjoh/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iurjoh&repo=convoychat" />
+</a>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="iurjoh-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="iurjoh-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
