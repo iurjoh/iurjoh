@@ -4,14 +4,15 @@
 - 📚 I’m currently learning Full Stack development
 - 💬 Ask me about 42!
 - 🎮 Fun fact: I'm addicted to Nintendo and own a small collection of Switch games
-
-<a href="https://github.com/iurjoh">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iurjoh&repo=iurjoh&show_icons=ture&theme=github_dark&include_all_commits=true&count_private=true"/>
-</a>
-<a href="https://github.com/iurjoh/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iurjoh&repo=convoychat" />
-</a>
-
+<!-- 
+<div>
+  <a href="https://github.com/iurjoh">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iurjoh&repo=iurjoh&show_icons=ture&theme=github_dark&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/iurjoh">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iurjoh&repo=iurjoh" />
+  </a>
+</div>
 <div style="display: inline_block"><br>
   <img align="center" alt="iurjoh-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="iurjoh-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -21,7 +22,7 @@
   
   ##
  
-<div> 
+<div>  -->
 <!--   <a href="#" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> -->
 <!--   <a href="https://www.instagram.com/iurisaraivajohansson/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> -->
 <!--  	<a href="https://www.twitch.tv/rafaballerinii" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
