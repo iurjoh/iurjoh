@@ -26,14 +26,14 @@
 - Python Testing
 - Full Stack Frameworks (FST)
 
-<div>
+<!-- <div>
   <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iurjoh&show_icons=true&locale=en&layout=compact&theme=transparent" alt="iurjoh" /></a>
 
   <a>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iurjoh&show_icons=true&locale=en&theme=transparent" alt="iurjoh" /></a>
 
 
-<!--   <a><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iurjoh&theme=transparent" alt="iurjoh" /> </a> -->
-</div>
+  <a><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iurjoh&theme=transparent" alt="iurjoh" /> </a>
+</div> -->
 
 
  
