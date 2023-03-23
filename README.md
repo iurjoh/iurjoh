@@ -3,7 +3,7 @@
 
 <!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iurjoh" alt="iurjoh" /></a> </p> -->
 
-- ⚙️ I’m currently working on **a Full Stack project of a Blog**
+- ⚙️ I’m currently working on **a Full Stack project of a social media**
 
 - 📚 I’m currently learning **Full Stack development**
 
