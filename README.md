@@ -11,7 +11,9 @@
 
 - 🧰 Full Stack Development student at **[Code Institute](https://codeinstitute.net/)** and **[Staart](https://staart.com//)**
 
-- 🎮 Fun fact: I'm addicted to **Nintend**o and own a small collection of **Switch** games
+- 🎮 Fun fact I: I'm addicted to **Nintend**o and own a small collection of **Switch** games
+
+- 🎮 Fun fact II: I love to travel and have incredible experiences. It's already over 23 countries and I'm still looking forward to more
 
 <div>
   <h3 align="left">Languages and Tools:</h3>
