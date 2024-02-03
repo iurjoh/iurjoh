@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **42!**
 
-- 🧰 Full Stack Development student at **[Code Institute](https://codeinstitute.net/)** and **[Staart](https://staart.com//)**
+- 🧰 Full Stack Software Development certified at **[Code Institute](https://codeinstitute.net/)**
 
 - 🎮 Fun fact I: I'm addicted to **Nintend**o and own a small collection of **Switch** games
 
