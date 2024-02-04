@@ -5,7 +5,7 @@
 
 - ⚙️ I’m currently working on **a Full Stack project of a social media**
 
-- 📚 I’m currently learning **Full Stack development**
+- 📚 I’m a **Full Stack Software developer** with diploma by Code Institute
 
 - 💬 Ask me about **42!**
 
