@@ -3,7 +3,7 @@
 
 <!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iurjoh" alt="iurjoh" /></a> </p> -->
 
-- ⚙️ I’m currently working on **a Full Stack project of a social media**
+- ⚙️ I bridge business, technology and operations to turn complex problems into practical solutions.**
 
 - 📚 I’m a **Full Stack Software developer** with diploma by Code Institute
 
